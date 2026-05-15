@@ -1,0 +1,38 @@
+---
+title: "Myzo distribution mapping"
+format:
+  html:
+    code-fold: show
+    code-tools: true
+toc: true
+toc-title: Document Contents
+number-sections: true
+embed-resources: true
+---
+
+### Read in data
+```{r}
+df<-read.csv("https://raw.githubusercontent.com/DevonDeRaad/myzo.rad/refs/heads/main/sampling.info.csv")
+```
+
+### Make maps
+```{r}
+library(ggplot2)
+library(RColorBrewer)
+
+
+#make map
+pac<-map_data("world")
+#
+ggplot()+
+  geom_polygon(data = pac, aes(x=long, y = lat, group = group), fill="grey", col="black", cex=.1)+
+  coord_sf(xlim = c(95, 177), ylim = c(-40, 20)) + 
+  geom_point(data = df, aes(x = long, y = lat, col=Species, size=count), alpha =.9, show.legend=TRUE) +
+  theme_classic()+
+  scale_color_manual(values=brewer.pal(8, "Set2"))+
+  scale_size_continuous(range = c(1,5))+
+  guides(colour = guide_legend(override.aes = list(size = 4), order=1, label.theme = element_text(face = "italic")),
+         size = guide_legend(nrow = 1, order = 2))+
+  theme(legend.position = c(0.5, 0.5), legend.justification = c(0.01, 0.01))
+```
+

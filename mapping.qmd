@@ -12,15 +12,40 @@ embed-resources: true
 
 ### Read in data
 ```{r}
+### All of the commented out text below was just run once to add info the sampling file, does not need to be run again
+
+#read in vcf
+#v<-read.vcfR("~/Desktop/myzomela.rad/myzo.filtered.snps.vcf.gz")
+#read in sample info
+#df<-read.csv("~/Desktop/myzomela.rad/sampling.info.incomplete.csv")
+##add column showing which samples are present in the filtered vcf (ie, passed genomic filtering)
+#df$passed.genomic.filtering<-df$sample_name %in% colnames(v@gt)
+#
+##create dataframe of missing data prop & mean depth
+#miss<-missing_by_sample(v)
+#stats<-miss[["unfiltered.stats"]]
+#
+##create datframe for samples that didn't pass genomic filtering
+#removed.df<-data.frame(samples=df$sample_name[!(df$sample_name %in% colnames(v@gt))],
+#                       prop.missing=rep(NA, times=10),
+#                       mean.depth=rep(NA, times=10))
+#
+##combine df's
+#allsamps.stats<-rbind(stats,removed.df)
+#
+###reorder sampling file to match order of samples in vcf
+#reord.xx<-allsamps.stats[match(df$sample_name, allsamps.stats$samples),]
+##make sure your sample info file is identical in order to the resulting PCA output
+#df$sample_name == reord.xx$samples #all should return true
+##add in the relevant info
+#df$prop.missing<-round(reord.xx$prop.missing,3)
+#df$mean.depth<-round(reord.xx$mean.depth,1)
+#
+##write out this updated sampling sheet for future use
+#write.csv(df, file="~/Desktop/myzomela.rad/sampling.info.csv", quote = F, row.names = F)
+
+### Read in updated sampling info
 df<-read.csv("https://raw.githubusercontent.com/DevonDeRaad/myzo.rad/refs/heads/main/sampling.info.csv")
-v<-read.vcfR("~/Desktop/myzomela.rad/myzo.filtered.snps.vcf.gz")
-
-#add column showing which samples are present in the filtered vcf (ie, passed genomic filtering)
-df$passed.genomic.filtering<-df$sample_name %in% colnames(v@gt)
-
-#add in column showing missing data prop & mean depth
-
-
 ```
 
 ### Make maps
@@ -34,13 +59,13 @@ pac<-map_data("world")
 #
 ggplot()+
   geom_polygon(data = pac, aes(x=long, y = lat, group = group), fill="grey", col="black", cex=.1)+
-  coord_sf(xlim = c(95, 177), ylim = c(-40, 20)) + 
-  geom_point(data = df, aes(x = long, y = lat, col=Species, size=count), alpha =.9, show.legend=TRUE) +
+  coord_sf(xlim = c(125, 190), ylim = c(-25, 20)) + 
+  geom_point(data = df, aes(x = long, y = lat, col=Species), alpha =.9, show.legend=TRUE) +
   theme_classic()+
-  scale_color_manual(values=brewer.pal(8, "Set2"))+
+  scale_color_manual(values=c(brewer.pal(8, "Set2"),"black","grey","blue","yellow"))+
   scale_size_continuous(range = c(1,5))+
   guides(colour = guide_legend(override.aes = list(size = 4), order=1, label.theme = element_text(face = "italic")),
          size = guide_legend(nrow = 1, order = 2))+
-  theme(legend.position = c(0.5, 0.5), legend.justification = c(0.01, 0.01))
+  theme(legend.position = c(0, 0.5), legend.justification = c(0.01, 0.01))
 ```
 

@@ -55,7 +55,7 @@ M_eichhorni_36213,134973,36213,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolomban
 M_eichhorni_36223,135124,36223,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; Patu Kolo camp,7/3/19,-8.002,157.108,TRUE,0.011,104.5
 M_eichhorni_36224,135125,36224,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/2/19,-7.982,157.093,TRUE,0.057,46.4
 M_eichhorni_36254,135162,36254,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/5/19,-7.982,157.093,TRUE,0.135,22
-M_eichhorni_CEF286,1627,CEF 286,UWBM,Myzomela,eichhorni,eichhorni,Solomons,New Georgia Island,unknown,-10.2766892,161.7315275,TRUE,0.094,31.4
+M_eichhorni_CEF286,1627,CEF 286,UWBM,Myzomela,eichhorni,eichhorni,Solomons,New Georgia Island,unknown,-8.341972,157.61527,TRUE,0.094,31.4
 M_eichhorni_CES732,76342,CES 732,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444,TRUE,0.336,12.9
 M_eichhorni_CES733,76343,CES 733,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444,TRUE,0.009,247.2
 Myz_jugularis_22510,126557,22510,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/8/09,-18.058,178.4603333,TRUE,0.025,75.4
@@ -78,8 +78,8 @@ M_lafargei_32092,131281,32092,KU,Myzomela,lafargei,lafargei,Solomons,Shortland I
 M_lafargei_34866,133666,34866,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/11/18,-8.159,159.546,TRUE,0.028,58.1
 M_lafargei_34876,133489,34876,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/12/18,-8.159,159.546,TRUE,0.016,72
 M_lafargei_34897,133497,34897,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/14/18,-8.159,159.546,TRUE,0.056,54.5
-M_lafargei_35083,133508,35083,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari ["Maugo"],6/23/18,-8.168,159.546,TRUE,0.011,98.5
-M_lafargei_35098,133523,35098,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari ["Maugo"],6/25/18,-8.168,159.546,TRUE,0.012,109.6
+M_lafargei_35083,133508,35083,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari [Maugo],6/23/18,-8.168,159.546,TRUE,0.011,98.5
+M_lafargei_35098,133523,35098,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari [Maugo],6/25/18,-8.168,159.546,TRUE,0.012,109.6
 M_lafargei_CES289,2516,CES 289,UWBM,Myzomela,lafargei,lafargei,Solomons,Isabel Island; 2.5 km WSW of Garanga River mouth,unknown,-8.168,159.546,TRUE,0.097,23.8
 M_malaitae_32730,131717,32730,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/8/15,-9.235,160.989,TRUE,0.064,48.6
 M_malaitae_32753,131719,32753,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/12/15,-9.235,160.989,TRUE,0.187,19.6

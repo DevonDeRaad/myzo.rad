@@ -13,6 +13,14 @@ embed-resources: true
 ### Read in data
 ```{r}
 df<-read.csv("https://raw.githubusercontent.com/DevonDeRaad/myzo.rad/refs/heads/main/sampling.info.csv")
+v<-read.vcfR("~/Desktop/myzomela.rad/myzo.filtered.snps.vcf.gz")
+
+#add column showing which samples are present in the filtered vcf (ie, passed genomic filtering)
+df$passed.genomic.filtering<-df$sample_name %in% colnames(v@gt)
+
+#add in column showing missing data prop & mean depth
+
+
 ```
 
 ### Make maps

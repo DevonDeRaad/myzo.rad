@@ -1,136 +1,136 @@
-﻿sample_name,Catalog,Tissue,Institution,Genus,Species,Subspecies,Locality_1,Locality_2,date,lat,long
-M_cardinalis_15920,111375,15920,KU,Myzomela,cardinalis,pulcherrima,Solomons,Ugi Island; east coast; Marou Village,12/5/07,-10.2518333,161.757
-M_cardinalis_15925,111376,15925,KU,Myzomela,cardinalis,pulcherrima,Solomons,Ugi Island; east coast; Marou Village,12/6/07,-10.2518333,161.757
-M_cardinalis_19420,113183,19420,KU,Myzomela,cardinalis,sanctaecrucis,Temotu,Santa Cruz Island; Nendo,10/20/08,-10.778,165.8518333
-M_cardinalis_19422,113182,19422,KU,Myzomela,cardinalis,sanctaecrucis,Temotu,Santa Cruz Island; Nendo,10/21/08,-10.778,165.8518333
-M_cardinalis_35551,134514,35551,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/20/18,-11.744,160.433
-M_cardinalis_35553,134607,35553,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/20/18,-11.744,160.433
-M_cardinalis_35577,134613,35577,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/22/18,-11.744,160.433
-M_cardinalis_35580,134570,35580,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/23/18,-11.744,160.433
-M_cardinalis_35583,134528,35583,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/23/18,-11.744,160.433
-M_cardinalis_35599,134619,35599,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/24/18,-11.744,160.433
-Myz_cardinalis_610,,610,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275
-Myz_cardinalis_612,,612,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275
-Myz_cardinalis_647,,647,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275
-Myz_cardinalis_651,,651,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275
-Myz_cardinalis_656,,656,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275
-Myz_cardinalis_DOT18931,SKEL 30322,DOT18931,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/10/05,-10.2766892,161.7315275
-Myz_cardinalis_DOT18932,SKEL 30323,DOT18932,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/10/05,-10.2766892,161.7315275
-Myz_cardinalis_DOT18943,SKEL 30326,DOT18943,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/11/05,-10.2766892,161.7315275
-Myz_cardinalis_DOT21342,SKIN 841319,DOT21342,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/19/14,-17.6029,168.2827
-Myz_cardinalis_DOT21364,SKIN 841433,DOT21364,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/26/14,-16.2134,167.4356
-Myz_cardinalis_DOT21373,SKIN 841434,DOT21373,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/27/14,-16.2134,167.4356
-Myz_cardinalis_DOT21410,,DOT21410,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488
-Myz_cardinalis_DOT21411,SKIN 841365,DOT21411,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488
-Myz_cardinalis_DOT21437,SKIN 841488,DOT21437,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Vanua Lava,12/11/14,-13.8876,167.5287
-Myz_cardinalis_DOT21447,SKIN 841320,DOT21447,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/18/14,-17.6029,168.2827
-Myz_cardinalis_DOT21525,SKEL 32582,DOT21525,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/6/14,-14.2747,167.5488
-Myz_cardinalis_DOT21543,,DOT21543,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Vanua Lava,12/11/14,-13.8876,167.5287
-Myz_cardinalis_DOT21557,SKIN 841322,DOT21557,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/19/14,-17.6029,168.2827
-Myz_cardinalis_DOT21568,,DOT21568,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/21/14,-17.6029,168.2827
-Myz_cardinalis_DOT21583,FLUID 14644,DOT21583,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/27/14,-16.2134,167.4356
-Myz_cardinalis_DOT21599,SKIN 841436,DOT21599,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/30/14,-16.2134,167.4356
-Myz_cardinalis_DOT21609,SKIN 841368,DOT21609,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488
-Myz_cardinalis_DOT21616,SKIN 841370,DOT21616,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/6/14,-14.2747,167.5488
-M_eichhorni_33765,133128,33765,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856
-M_eichhorni_33768,133129,33768,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856
-M_eichhorni_33771,133108,33771,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856
-M_eichhorni_33782,133134,33782,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/17/17,-8.1292,156.5856
-M_eichhorni_33783,133201,33783,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/17/17,-8.1292,156.5856
-M_eichhorni_33799,133141,33799,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/19/17,-8.1292,156.5856
-M_eichhorni_33834,133154,33834,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,6/29/17,-7.7205,156.7519
-M_eichhorni_33853,133162,33853,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/1/17,-7.7205,156.7519
-M_eichhorni_33854,133225,33854,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/1/17,-7.7205,156.7519
-M_eichhorni_33865,133252,33865,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/2/17,-7.7205,156.7519
-M_eichhorni_33877,133103,33877,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/3/17,-7.7205,156.7519
-M_eichhorni_33892,133118,33892,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/4/17,-7.7205,156.7519
-M_eichhorni_33899,133121,33899,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; 3.7 km SW Poitete,7/9/17,-7.9097,157.1139
-M_eichhorni_33923,133126,33923,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; 3.7 km SW Poitete,7/13/17,-7.9097,157.1139
-M_eichhorni_36077,135073,36077,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/13/19,-8.458,157.37
-M_eichhorni_36079,134924,36079,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/13/19,-8.458,157.37
-M_eichhorni_36091,135079,36091,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/14/19,-8.458,157.37
-M_eichhorni_36097,,36097,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,unknown,-8.458,157.37
-M_eichhorni_36099,134933,36099,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/15/19,-8.458,157.37
-M_eichhorni_36213,134973,36213,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; Patu Kolo camp,7/1/19,-8.002,157.108
-M_eichhorni_36223,135124,36223,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; Patu Kolo camp,7/3/19,-8.002,157.108
-M_eichhorni_36224,135125,36224,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/2/19,-7.982,157.093
-M_eichhorni_36254,135162,36254,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/5/19,-7.982,157.093
-M_eichhorni_CEF286,1627,CEF 286,UWBM,Myzomela,eichhorni,eichhorni,Solomons,New Georgia Island,unknown,-10.2766892,161.7315275
-M_eichhorni_CES732,76342,CES 732,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444
-M_eichhorni_CES733,76343,CES 733,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444
-Myz_jugularis_22510,126557,22510,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/8/09,-18.058,178.4603333
-Myz_jugularis_22516,126560,22516,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/9/09,-18.058,178.4603333
-Myz_jugularis_26360,128020,26360,KU,Myzomela,jugularis,jugularis,Fiji,Namuka-i-lau,unknown,-18.8493786,-178.6371413
-Myz_jugularis_24384,117364,24384,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,12/7/10,-17.4883333,178.1083333
-Myz_jugularis_24230,127195,24230,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/3/10,-16.6366667,179.2116667
-Myz_jugularis_24296,117476,24296,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/11/10,-16.6366667,179.7616667
-Myz_jugularis_26504,120236,26504,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,8/19/11,-16.8778333,178.936
-Myz_jugularis_24218,117446,24218,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/1/10,-16.6366667,179.2116667
-Myz_jugularis_26316,128002,26316,KU,Myzomela,jugularis,jugularis,Fiji,Vatoa Island,unknown,-19.8163727,-178.2422513
-Myz_jugularis_22547,117354,22547,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/12/09,-18.058,178.4603333
-M_lafargei_32003,131314,32003,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sarelata,10/19/14,-7.071,157.012
-M_lafargei_32016,131313,32016,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sarelata,10/21/14,-7.071,157.012
-M_lafargei_32028,131305,32028,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/26/14,-6.981,156.778
-M_lafargei_32033,131365,32033,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/26/14,-6.981,156.778
-M_lafargei_32055,131303,32055,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/29/14,-6.981,156.778
-M_lafargei_32071,131282,32071,KU,Myzomela,lafargei,lafargei,Solomons,Shortland Island; near Koliari,11/5/14,-7.041,155.847
-M_lafargei_32092,131281,32092,KU,Myzomela,lafargei,lafargei,Solomons,Shortland Island; Koliai,11/9/14,-7.035,155.858
-M_lafargei_34866,133666,34866,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/11/18,-8.159,159.546
-M_lafargei_34876,133489,34876,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/12/18,-8.159,159.546
-M_lafargei_34897,133497,34897,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/14/18,-8.159,159.546
-M_lafargei_35083,133508,35083,KU,Myzomela,lafargei,lafargei,Solomons,"Isabel Island; Mt. Sasari [""Maugo""]",6/23/18,-8.168,159.546
-M_lafargei_35098,133523,35098,KU,Myzomela,lafargei,lafargei,Solomons,"Isabel Island; Mt. Sasari [""Maugo""]",6/25/18,-8.168,159.546
-M_lafargei_CES289,2516,CES 289,UWBM,Myzomela,lafargei,lafargei,Solomons,Isabel Island; 2.5 km WSW of Garanga River mouth,unknown,-8.168,159.546
-M_malaitae_32730,131717,32730,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/8/15,-9.235,160.989
-M_malaitae_32753,131719,32753,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/12/15,-9.235,160.989
-M_malaitae_32760,131746,32760,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Hahorarumu uru,6/17/15,-9.272,161.128
-M_malaitae_32769,131757,32769,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; West Kwaio; Nunubala,6/25/15,-8.999,160.868
-M_malaitae_32771,131758,32771,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; West Kwaio; Nunubala,6/26/15,-8.999,160.868
-M_malaitae_CES562,1630,CES 562,UWBM,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Roahan'ire Camp; 700 meters N,unknown,-8.999,160.868
-M_melanocephala_15888,111348,15888,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; 8 km SSE Honiara,11/24/07,-9.504,159.98
-M_melanocephala_15913,111349,15913,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; 8 km SSE Honiara,11/28/07,-9.504,159.98
-M_melanocephala_32816,134662,32816,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585
-M_melanocephala_32817,132038,32817,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585
-M_melanocephala_32822,132039,32822,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585
-M_melanocephala_32845,134680,32845,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/15/15,-9.6356,160.0585
-Myz_pammelaena_27809,121477,27809,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/4/12,-2.61605,150.6778167
-Myz_pammelaena_27810,121478,27810,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/4/12,-2.61605,150.6778167
-Myz_pammelaena_27801,123577,27801,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/1/12,-2.61605,150.6778167
-M_pulchella_27709,128471,27709,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045
-M_pulchella_27733,128485,27733,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045
-M_pulchella_27751,121498,27751,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,10/21/12,-3.2749,151.93045
-M_pulchella_27757,128498,27757,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045
-M_pulchella_27767,128507,27767,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045
-Myz_rubratra_22573,116027,22573,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/4/09,15.249,145.806
-Myz_rubratra_22574,116028,22574,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/4/09,15.249,145.806
-Myz_rubratra_22586,116029,22586,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/7/09,15.249,145.806
-Myz_rubratra_23677,117183,23677,KU,Myzomela,rubratra,kobayashii,Palau,Peleliu,6/2/10,7.014,134.233
-Myz_rubratra_23622,117193,23622,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/21/10,7.62487,134.64212
-Myz_rubratra_23663,117200,23663,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/29/10,7.5209,134.60525
-Myz_rubratra_23668,117201,23668,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/29/10,7.5209,134.60525
-M_sclateri_27867,128599,27867,KU,Myzomela,sclateri,sclateri,New Guinea,Karkar Island; Crater Rim Bush camp,2/28/12,-4.6617833,145.9690333
-M_sclateri_27887,121444,27887,KU,Myzomela,sclateri,sclateri,New Guinea,Kar Kar Island; Crater Rim camp,3/1/12,-4.6617833,145.9690333
-M_sclateri_27888,121442,27888,KU,Myzomela,sclateri,sclateri,New Guinea,Kar Kar Island; Crater Rim camp,3/1/12,-4.6617833,145.9690333
-Myz_sclateri_27659,128448,27659,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/13/12,-5.294354,150.105069
-Myz_sclateri_27663,121443,27664,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069
-Myz_sclateri_27664,121445,27663,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069
-Myz_sclateri_27665,128451,27665,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069
-M_tristrami_13533,98846,13533,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; ca. 17.5 km S Kira Kira; Maningari Camp,11/29/06,-10.6141667,161.8881667
-M_tristrami_13553,99371,13553,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; ca. 17.5 km S Kira Kira; Maningari Camp,12/3/06,-10.6141667,161.8881667
-M_tristrami_34967,133535,34967,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Naepaepa Mountain,7/3/18,-10.573,161.899
-M_tristrami_34983,133699,34983,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Naepaepa Mountain,7/4/18,-10.573,161.899
-M_tristrami_35044,133658,35044,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Na'ara Village,7/10/18,-10.543,161.932
-M_tristrami_35047,133718,35047,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Na'ara Village,7/11/18,-10.543,161.932
-Myz_tristrami_598,,598,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Hauta,unknown,-10.4585,161.943
-Myz_tristrami_639,,639,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943
-Myz_tristrami_641,,641,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943
-Myz_tristrami_643,,643,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943
-Myz_tristrami_672,,672,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Maraone,unknown,-10.4585,161.943
-Myz_tristrami_826,,826,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943
-Myz_tristrami_833,,833,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943
-Myz_tristrami_15917,111362,15917,KU,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,12/2/07,-10.4585,161.943
-Myz_erythrocephala_22737,126667,22737,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; McArthur River; 9.6km ENE of King Ash Bay; 3 km W Muggs Mistake,7/3/09,-15.913,136.544
-Myz_erythrocephala_22738,126668,22738,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; McArthur River; 9.6km ENE of King Ash Bay; 3 km W Muggs Mistake,7/3/09,-15.913,136.544
-Myz_erythrocephala_22766,,22766,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; Goondi Llanding; McArthur River,7/4/09,-15.851,136.619
-Myz_erythrocephala_22868,,22868,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; Port Roper landing,7/9/09,-14.756,135.319
-Myz_erythrocephala_22900,,22900,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; 7 km NW of Port Roper landing,7/11/09,-14.713,135.284
+sample_name,Catalog,Tissue,Institution,Genus,Species,Subspecies,Locality_1,Locality_2,date,lat,long,passed.genomic.filtering,prop.missing,mean.depth
+M_cardinalis_15920,111375,15920,KU,Myzomela,cardinalis,pulcherrima,Solomons,Ugi Island; east coast; Marou Village,12/5/07,-10.2518333,161.757,TRUE,0.015,123.1
+M_cardinalis_15925,111376,15925,KU,Myzomela,cardinalis,pulcherrima,Solomons,Ugi Island; east coast; Marou Village,12/6/07,-10.2518333,161.757,TRUE,0.185,20.2
+M_cardinalis_19420,113183,19420,KU,Myzomela,cardinalis,sanctaecrucis,Temotu,Santa Cruz Island; Nendo,10/20/08,-10.778,165.8518333,TRUE,0.01,134.7
+M_cardinalis_19422,113182,19422,KU,Myzomela,cardinalis,sanctaecrucis,Temotu,Santa Cruz Island; Nendo,10/21/08,-10.778,165.8518333,TRUE,0.016,95.8
+M_cardinalis_35551,134514,35551,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/20/18,-11.744,160.433,TRUE,0.023,291.9
+M_cardinalis_35553,134607,35553,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/20/18,-11.744,160.433,TRUE,0.074,42.7
+M_cardinalis_35577,134613,35577,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/22/18,-11.744,160.433,TRUE,0.023,156.3
+M_cardinalis_35580,134570,35580,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/23/18,-11.744,160.433,TRUE,0.047,58.7
+M_cardinalis_35583,134528,35583,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/23/18,-11.744,160.433,TRUE,0.028,123.9
+M_cardinalis_35599,134619,35599,KU,Myzomela,cardinalis,sanfordi,Solomons,Rennell Island; Lake Te-Nggano,10/24/18,-11.744,160.433,TRUE,0.025,108.9
+Myz_cardinalis_610,,610,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275,TRUE,0.05,48.9
+Myz_cardinalis_612,,612,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275,TRUE,0.05,49.6
+Myz_cardinalis_647,,647,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275,TRUE,0.123,32.3
+Myz_cardinalis_651,,651,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275,TRUE,0.128,34.3
+Myz_cardinalis_656,,656,Al Uy,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,unknown,-10.2766892,161.7315275,FALSE,NA,NA
+Myz_cardinalis_DOT18931,SKEL 30322,DOT18931,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/10/05,-10.2766892,161.7315275,TRUE,0.035,52.9
+Myz_cardinalis_DOT18932,SKEL 30323,DOT18932,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/10/05,-10.2766892,161.7315275,TRUE,0.419,18.4
+Myz_cardinalis_DOT18943,SKEL 30326,DOT18943,AMNH,Myzomela,cardinalis,pulcherrima,Solomon Islands,Ugi,3/11/05,-10.2766892,161.7315275,TRUE,0.045,48.6
+Myz_cardinalis_DOT21342,SKIN 841319,DOT21342,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/19/14,-17.6029,168.2827,TRUE,0.015,129.8
+Myz_cardinalis_DOT21364,SKIN 841433,DOT21364,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/26/14,-16.2134,167.4356,TRUE,0.02,86.6
+Myz_cardinalis_DOT21373,SKIN 841434,DOT21373,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/27/14,-16.2134,167.4356,TRUE,0.013,107.3
+Myz_cardinalis_DOT21410,,DOT21410,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488,TRUE,0.054,47.6
+Myz_cardinalis_DOT21411,SKIN 841365,DOT21411,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488,TRUE,0.028,64.9
+Myz_cardinalis_DOT21437,SKIN 841488,DOT21437,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Vanua Lava,12/11/14,-13.8876,167.5287,TRUE,0.018,103.9
+Myz_cardinalis_DOT21447,SKIN 841320,DOT21447,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/18/14,-17.6029,168.2827,TRUE,0.03,59.8
+Myz_cardinalis_DOT21525,SKEL 32582,DOT21525,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/6/14,-14.2747,167.5488,TRUE,0.015,153.5
+Myz_cardinalis_DOT21543,,DOT21543,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Vanua Lava,12/11/14,-13.8876,167.5287,TRUE,0.031,63.8
+Myz_cardinalis_DOT21557,SKIN 841322,DOT21557,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/19/14,-17.6029,168.2827,TRUE,0.021,79.7
+Myz_cardinalis_DOT21568,,DOT21568,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Efate,11/21/14,-17.6029,168.2827,TRUE,0.045,45.5
+Myz_cardinalis_DOT21583,FLUID 14644,DOT21583,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/27/14,-16.2134,167.4356,TRUE,0.172,28.6
+Myz_cardinalis_DOT21599,SKIN 841436,DOT21599,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Malakula,11/30/14,-16.2134,167.4356,TRUE,0.04,56.2
+Myz_cardinalis_DOT21609,SKIN 841368,DOT21609,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/5/14,-14.2747,167.5488,TRUE,0.11,30.9
+Myz_cardinalis_DOT21616,SKIN 841370,DOT21616,AMNH,Myzomela,cardinalis,tenuis,Vanuatu,Gaua,12/6/14,-14.2747,167.5488,TRUE,0.084,38.2
+M_eichhorni_33765,133128,33765,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856,TRUE,0.127,25.5
+M_eichhorni_33768,133129,33768,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856,TRUE,0.09,40
+M_eichhorni_33771,133108,33771,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/16/17,-8.1292,156.5856,TRUE,0.259,17.8
+M_eichhorni_33782,133134,33782,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/17/17,-8.1292,156.5856,TRUE,0.049,44.1
+M_eichhorni_33783,133201,33783,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/17/17,-8.1292,156.5856,TRUE,0.318,13.2
+M_eichhorni_33799,133141,33799,KU,Myzomela,eichhorni,ganongae,Solomons,Ranongga Island; Pie Egana Camp,6/19/17,-8.1292,156.5856,TRUE,0.031,55
+M_eichhorni_33834,133154,33834,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,6/29/17,-7.7205,156.7519,TRUE,0.008,128.7
+M_eichhorni_33853,133162,33853,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/1/17,-7.7205,156.7519,TRUE,0.014,107.5
+M_eichhorni_33854,133225,33854,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/1/17,-7.7205,156.7519,TRUE,0.014,118.6
+M_eichhorni_33865,133252,33865,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/2/17,-7.7205,156.7519,TRUE,0.091,36.9
+M_eichhorni_33877,133103,33877,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/3/17,-7.7205,156.7519,TRUE,0.037,56.8
+M_eichhorni_33892,133118,33892,KU,Myzomela,eichhorni,atrata,Solomons,Vella Lavella Island; Sa Ba Ju Camp,7/4/17,-7.7205,156.7519,TRUE,0.013,109.8
+M_eichhorni_33899,133121,33899,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; 3.7 km SW Poitete,7/9/17,-7.9097,157.1139,TRUE,0.029,57.2
+M_eichhorni_33923,133126,33923,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; 3.7 km SW Poitete,7/13/17,-7.9097,157.1139,TRUE,0.007,210.3
+M_eichhorni_36077,135073,36077,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/13/19,-8.458,157.37,TRUE,0.2,19.9
+M_eichhorni_36079,134924,36079,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/13/19,-8.458,157.37,TRUE,0.01,128.2
+M_eichhorni_36091,135079,36091,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/14/19,-8.458,157.37,TRUE,0.019,69.9
+M_eichhorni_36097,,36097,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,unknown,-8.458,157.37,TRUE,0.226,20.9
+M_eichhorni_36099,134933,36099,KU,Myzomela,eichhorni,eichhorni,Solomons,Rendova Island; Toa Barusipala Ridge,6/15/19,-8.458,157.37,TRUE,0.012,128
+M_eichhorni_36213,134973,36213,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; Patu Kolo camp,7/1/19,-8.002,157.108,TRUE,0.015,94.1
+M_eichhorni_36223,135124,36223,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; Patu Kolo camp,7/3/19,-8.002,157.108,TRUE,0.011,104.5
+M_eichhorni_36224,135125,36224,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/2/19,-7.982,157.093,TRUE,0.057,46.4
+M_eichhorni_36254,135162,36254,KU,Myzomela,eichhorni,eichhorni,Solomons,Kolombangara Island; ridge to Mt. Tepalamengutu,7/5/19,-7.982,157.093,TRUE,0.135,22
+M_eichhorni_CEF286,1627,CEF 286,UWBM,Myzomela,eichhorni,eichhorni,Solomons,New Georgia Island,unknown,-10.2766892,161.7315275,TRUE,0.094,31.4
+M_eichhorni_CES732,76342,CES 732,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444,TRUE,0.336,12.9
+M_eichhorni_CES733,76343,CES 733,UWBM,Myzomela,eichhorni,eichhorni,Solomons,Tetepare Island,6/23/03,-8.724,157.444,TRUE,0.009,247.2
+Myz_jugularis_22510,126557,22510,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/8/09,-18.058,178.4603333,TRUE,0.025,75.4
+Myz_jugularis_22516,126560,22516,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/9/09,-18.058,178.4603333,TRUE,0.056,49.5
+Myz_jugularis_26360,128020,26360,KU,Myzomela,jugularis,jugularis,Fiji,Namuka-i-lau,unknown,-18.8493786,-178.6371413,TRUE,0.035,59.1
+Myz_jugularis_24384,117364,24384,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,12/7/10,-17.4883333,178.1083333,TRUE,0.014,438.9
+Myz_jugularis_24230,127195,24230,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/3/10,-16.6366667,179.2116667,TRUE,0.045,64.4
+Myz_jugularis_24296,117476,24296,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/11/10,-16.6366667,179.7616667,TRUE,0.017,124.7
+Myz_jugularis_26504,120236,26504,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,8/19/11,-16.8778333,178.936,TRUE,0.017,142.1
+Myz_jugularis_24218,117446,24218,KU,Myzomela,jugularis,jugularis,Fiji,Vanua Levu,7/1/10,-16.6366667,179.2116667,TRUE,0.425,16.6
+Myz_jugularis_26316,128002,26316,KU,Myzomela,jugularis,jugularis,Fiji,Vatoa Island,unknown,-19.8163727,-178.2422513,TRUE,0.021,106.7
+Myz_jugularis_22547,117354,22547,KU,Myzomela,jugularis,jugularis,Fiji,Viti Levu,11/12/09,-18.058,178.4603333,TRUE,0.025,76.4
+M_lafargei_32003,131314,32003,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sarelata,10/19/14,-7.071,157.012,TRUE,0.012,112.4
+M_lafargei_32016,131313,32016,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sarelata,10/21/14,-7.071,157.012,TRUE,0.363,11.1
+M_lafargei_32028,131305,32028,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/26/14,-6.981,156.778,TRUE,0.025,67.5
+M_lafargei_32033,131365,32033,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/26/14,-6.981,156.778,TRUE,0.026,59.6
+M_lafargei_32055,131303,32055,KU,Myzomela,lafargei,lafargei,Solomons,Choiseul Island; Sirebe Forest; Pisuku,10/29/14,-6.981,156.778,TRUE,0.395,10.3
+M_lafargei_32071,131282,32071,KU,Myzomela,lafargei,lafargei,Solomons,Shortland Island; near Koliari,11/5/14,-7.041,155.847,TRUE,0.02,74.6
+M_lafargei_32092,131281,32092,KU,Myzomela,lafargei,lafargei,Solomons,Shortland Island; Koliai,11/9/14,-7.035,155.858,TRUE,0.022,68.3
+M_lafargei_34866,133666,34866,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/11/18,-8.159,159.546,TRUE,0.028,58.1
+M_lafargei_34876,133489,34876,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/12/18,-8.159,159.546,TRUE,0.016,72
+M_lafargei_34897,133497,34897,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Kolosita River,6/14/18,-8.159,159.546,TRUE,0.056,54.5
+M_lafargei_35083,133508,35083,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari ["Maugo"],6/23/18,-8.168,159.546,TRUE,0.011,98.5
+M_lafargei_35098,133523,35098,KU,Myzomela,lafargei,lafargei,Solomons,Isabel Island; Mt. Sasari ["Maugo"],6/25/18,-8.168,159.546,TRUE,0.012,109.6
+M_lafargei_CES289,2516,CES 289,UWBM,Myzomela,lafargei,lafargei,Solomons,Isabel Island; 2.5 km WSW of Garanga River mouth,unknown,-8.168,159.546,TRUE,0.097,23.8
+M_malaitae_32730,131717,32730,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/8/15,-9.235,160.989,TRUE,0.064,48.6
+M_malaitae_32753,131719,32753,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Waisurione,6/12/15,-9.235,160.989,TRUE,0.187,19.6
+M_malaitae_32760,131746,32760,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Hahorarumu uru,6/17/15,-9.272,161.128,TRUE,0.031,68.6
+M_malaitae_32769,131757,32769,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; West Kwaio; Nunubala,6/25/15,-8.999,160.868,TRUE,0.027,88.9
+M_malaitae_32771,131758,32771,KU,Myzomela,malaitae,malaitae,Solomons,Malaita Island; West Kwaio; Nunubala,6/26/15,-8.999,160.868,TRUE,0.035,78.5
+M_malaitae_CES562,1630,CES 562,UWBM,Myzomela,malaitae,malaitae,Solomons,Malaita Island; Roahan'ire Camp; 700 meters N,unknown,-8.999,160.868,TRUE,0.036,61.2
+M_melanocephala_15888,111348,15888,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; 8 km SSE Honiara,11/24/07,-9.504,159.98,FALSE,NA,NA
+M_melanocephala_15913,111349,15913,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; 8 km SSE Honiara,11/28/07,-9.504,159.98,TRUE,0.161,25.6
+M_melanocephala_32816,134662,32816,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585,TRUE,0.079,38.1
+M_melanocephala_32817,132038,32817,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585,TRUE,0.08,39.6
+M_melanocephala_32822,132039,32822,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/12/15,-9.6356,160.0585,TRUE,0.061,44.7
+M_melanocephala_32845,134680,32845,KU,Myzomela,melanocephala,melanocephala,Solomons,Guadalcanal Island; Chupukama camp,9/15/15,-9.6356,160.0585,TRUE,0.063,37.6
+Myz_pammelaena_27809,121477,27809,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/4/12,-2.61605,150.6778167,FALSE,NA,NA
+Myz_pammelaena_27810,121478,27810,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/4/12,-2.61605,150.6778167,TRUE,0.172,24.3
+Myz_pammelaena_27801,123577,27801,KU,Myzomela,pammelaena,ramsayi,Papua New Guiniea,Nusalaman,11/1/12,-2.61605,150.6778167,TRUE,0.051,50.7
+M_pulchella_27709,128471,27709,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045,TRUE,0.05,41.4
+M_pulchella_27733,128485,27733,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045,TRUE,0.099,31.1
+M_pulchella_27751,121498,27751,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,10/21/12,-3.2749,151.93045,FALSE,NA,NA
+M_pulchella_27757,128498,27757,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045,TRUE,0.012,227.6
+M_pulchella_27767,128507,27767,KU,Myzomela,pulchella,pulchella,Bismarcks,New Ireland; Lelet Plateau,unknown,-3.2749,151.93045,TRUE,0.043,47.1
+Myz_rubratra_22573,116027,22573,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/4/09,15.249,145.806,TRUE,0.054,53.5
+Myz_rubratra_22574,116028,22574,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/4/09,15.249,145.806,TRUE,0.309,21.8
+Myz_rubratra_22586,116029,22586,KU,Myzomela,rubratra,saffordi,CNMI,Saipan,12/7/09,15.249,145.806,FALSE,NA,NA
+Myz_rubratra_23677,117183,23677,KU,Myzomela,rubratra,kobayashii,Palau,Peleliu,6/2/10,7.014,134.233,TRUE,0.029,104.3
+Myz_rubratra_23622,117193,23622,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/21/10,7.62487,134.64212,TRUE,0.151,30.9
+Myz_rubratra_23663,117200,23663,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/29/10,7.5209,134.60525,TRUE,0.073,40.8
+Myz_rubratra_23668,117201,23668,KU,Myzomela,rubratra,kobayashii,Palau,Babeldaob,5/29/10,7.5209,134.60525,TRUE,0.032,90.3
+M_sclateri_27867,128599,27867,KU,Myzomela,sclateri,sclateri,New Guinea,Karkar Island; Crater Rim Bush camp,2/28/12,-4.6617833,145.9690333,TRUE,0.031,76.3
+M_sclateri_27887,121444,27887,KU,Myzomela,sclateri,sclateri,New Guinea,Kar Kar Island; Crater Rim camp,3/1/12,-4.6617833,145.9690333,TRUE,0.029,88
+M_sclateri_27888,121442,27888,KU,Myzomela,sclateri,sclateri,New Guinea,Kar Kar Island; Crater Rim camp,3/1/12,-4.6617833,145.9690333,TRUE,0.023,212.6
+Myz_sclateri_27659,128448,27659,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/13/12,-5.294354,150.105069,FALSE,NA,NA
+Myz_sclateri_27663,121443,27664,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069,FALSE,NA,NA
+Myz_sclateri_27664,121445,27663,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069,TRUE,0.024,169.7
+Myz_sclateri_27665,128451,27665,KU,Myzomela,sclateri,sclateri,Papua New Guinea,Restorf,4/14/12,-5.294354,150.105069,TRUE,0.212,24.2
+M_tristrami_13533,98846,13533,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; ca. 17.5 km S Kira Kira; Maningari Camp,11/29/06,-10.6141667,161.8881667,FALSE,NA,NA
+M_tristrami_13553,99371,13553,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; ca. 17.5 km S Kira Kira; Maningari Camp,12/3/06,-10.6141667,161.8881667,TRUE,0.31,13.4
+M_tristrami_34967,133535,34967,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Naepaepa Mountain,7/3/18,-10.573,161.899,TRUE,0.143,32
+M_tristrami_34983,133699,34983,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Naepaepa Mountain,7/4/18,-10.573,161.899,TRUE,0.008,158.4
+M_tristrami_35044,133658,35044,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Na'ara Village,7/10/18,-10.543,161.932,TRUE,0.221,14.2
+M_tristrami_35047,133718,35047,KU,Myzomela,tristrami,tristrami,Solomons,Makira Island; Central Bauro Highlands; Na'ara Village,7/11/18,-10.543,161.932,TRUE,0.052,39.6
+Myz_tristrami_598,,598,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Hauta,unknown,-10.4585,161.943,TRUE,0.04,53.3
+Myz_tristrami_639,,639,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943,TRUE,0.093,38.5
+Myz_tristrami_641,,641,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943,TRUE,0.009,159.3
+Myz_tristrami_643,,643,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943,TRUE,0.009,113.9
+Myz_tristrami_672,,672,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Maraone,unknown,-10.4585,161.943,TRUE,0.024,61.4
+Myz_tristrami_826,,826,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943,TRUE,0.083,40.1
+Myz_tristrami_833,,833,Al Uy,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,unknown,-10.4585,161.943,TRUE,0.184,28.5
+Myz_tristrami_15917,111362,15917,KU,Myzomela,tristrami,tristrami,Solomon Islands,Makira; Kira Kira,12/2/07,-10.4585,161.943,TRUE,0.009,94.5
+Myz_erythrocephala_22737,126667,22737,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; McArthur River; 9.6km ENE of King Ash Bay; 3 km W Muggs Mistake,7/3/09,-15.913,136.544,FALSE,NA,NA
+Myz_erythrocephala_22738,126668,22738,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; McArthur River; 9.6km ENE of King Ash Bay; 3 km W Muggs Mistake,7/3/09,-15.913,136.544,FALSE,NA,NA
+Myz_erythrocephala_22766,,22766,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; Goondi Llanding; McArthur River,7/4/09,-15.851,136.619,TRUE,0.128,37.9
+Myz_erythrocephala_22868,,22868,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; Port Roper landing,7/9/09,-14.756,135.319,TRUE,0.086,51.5
+Myz_erythrocephala_22900,,22900,KU,Myzomela,erythrocephala,erythrocephala,Australia,Northern Territory; 7 km NW of Port Roper landing,7/11/09,-14.713,135.284,TRUE,0.115,39.5

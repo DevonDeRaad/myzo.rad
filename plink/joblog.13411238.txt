@@ -1,0 +1,27 @@
+PLINK v2.0.0-a.6.16LM 64-bit Intel (9 Jun 2025)    cog-genomics.org/plink/2.0/
+(C) 2005-2025 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to plink2.log.
+Options in effect:
+  --allow-extra-chr
+  --chr-set 50
+  --make-king-table
+  --vcf myzo.filtered.snps.vcf.gz
+
+Start time: Sat May 16 15:18:20 2026
+515662 MiB RAM detected, ~504032 available; reserving 257831 MiB for main
+workspace.
+Using up to 48 threads (change this with --threads).
+--vcf: 1k variants scanned.--vcf: 2k variants scanned.--vcf: 3k variants scanned.--vcf: 4k variants scanned.--vcf: 5k variants scanned.--vcf: 6k variants scanned.--vcf: 7k variants scanned.--vcf: 8k variants scanned.--vcf: 9k variants scanned.--vcf: 10k variants scanned.--vcf: 11k variants scanned.--vcf: 12k variants scanned.--vcf: 13k variants scanned.--vcf: 14k variants scanned.--vcf: 15k variants scanned.--vcf: 16k variants scanned.--vcf: 17k variants scanned.--vcf: 18k variants scanned.--vcf: 19k variants scanned.--vcf: 20k variants scanned.--vcf: 21k variants scanned.--vcf: 22k variants scanned.--vcf: 23k variants scanned.--vcf: 24k variants scanned.--vcf: 25k variants scanned.--vcf: 26k variants scanned.--vcf: 27k variants scanned.--vcf: 28k variants scanned.--vcf: 29k variants scanned.--vcf: 30k variants scanned.--vcf: 31k variants scanned.--vcf: 32k variants scanned.--vcf: 33k variants scanned.--vcf: 34k variants scanned.--vcf: 34535 variants scanned.
+--vcf: 17k variants converted.    --vcf: plink2-temporary.pgen + plink2-temporary.pvar.zst +
+plink2-temporary.psam written.
+125 samples (0 females, 0 males, 125 ambiguous; 125 founders) loaded from
+plink2-temporary.psam.
+Note: 5 nonstandard chromosome codes present.
+34535 variants loaded from plink2-temporary.pvar.zst.
+Note: No phenotype data present.
+--make-king-table pass 1/1: Scanning for rare variants... 0%done.
+5685 variants handled by initial scan (28850 remaining).
+--make-king-table pass 1/1: 0 variants complete.--make-king-table pass 1/1: 1536 variants complete.--make-king-table pass 1/1: 3072 variants complete.--make-king-table pass 1/1: 4608 variants complete.--make-king-table pass 1/1: 6144 variants complete.--make-king-table pass 1/1: 7680 variants complete.--make-king-table pass 1/1: 9216 variants complete.--make-king-table pass 1/1: 10752 variants complete.--make-king-table pass 1/1: 12288 variants complete.--make-king-table pass 1/1: 13824 variants complete.--make-king-table pass 1/1: 15360 variants complete.--make-king-table pass 1/1: 16896 variants complete.--make-king-table pass 1/1: 18432 variants complete.--make-king-table pass 1/1: 19968 variants complete.--make-king-table pass 1/1: 21504 variants complete.--make-king-table pass 1/1: 23040 variants complete.--make-king-table pass 1/1: 24576 variants complete.--make-king-table pass 1/1: 26112 variants complete.--make-king-table pass 1/1: 27648 variants complete.--make-king-table pass 1/1: Writing...                    done.
+--make-king-table: 34535 variants processed.
+Results written to plink2.kin0 .
+End time: Sat May 16 15:18:21 2026

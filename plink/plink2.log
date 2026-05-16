@@ -1,0 +1,29 @@
+PLINK v2.0.0-a.6.16LM 64-bit Intel (9 Jun 2025)
+Options in effect:
+  --allow-extra-chr
+  --chr-set 50
+  --make-king-table
+  --vcf myzo.filtered.snps.vcf.gz
+
+Hostname: n1071
+Working directory: /u/project/aguillon/dderaad/myzo/plink
+Start time: Sat May 16 15:18:20 2026
+
+Random number seed: 1778969900
+515662 MiB RAM detected, ~504032 available; reserving 257831 MiB for main
+workspace.
+Using up to 48 threads (change this with --threads).
+--vcf: 34535 variants scanned.
+--vcf: plink2-temporary.pgen + plink2-temporary.pvar.zst +
+plink2-temporary.psam written.
+125 samples (0 females, 0 males, 125 ambiguous; 125 founders) loaded from
+plink2-temporary.psam.
+Note: 5 nonstandard chromosome codes present.
+34535 variants loaded from plink2-temporary.pvar.zst.
+Note: No phenotype data present.
+--make-king-table pass 1/1: Scanning for rare variants... done.
+5685 variants handled by initial scan (28850 remaining).
+--make-king-table: 34535 variants processed.
+Results written to plink2.kin0 .
+
+End time: Sat May 16 15:18:21 2026

@@ -42,7 +42,7 @@ embed-resources: true
 #df$mean.depth<-round(reord.xx$mean.depth,1)
 #
 ##write out this updated sampling sheet for future use
-#write.csv(df, file="~/Desktop/myzomela.rad/sampling.info.csv", quote = F, row.names = F)
+#write.csv(df, file="~/Desktop/myzomela.rad/myzo.rad/sampling.info.csv", quote = F, row.names = F)
 
 ### Read in updated sampling info
 df<-read.csv("https://raw.githubusercontent.com/DevonDeRaad/myzo.rad/refs/heads/main/sampling.info.csv")
@@ -59,7 +59,18 @@ pac<-map_data("world")
 #
 ggplot()+
   geom_polygon(data = pac, aes(x=long, y = lat, group = group), fill="grey", col="black", cex=.1)+
-  coord_sf(xlim = c(125, 190), ylim = c(-25, 20)) + 
+  coord_sf(xlim = c(135, 190), ylim = c(-25, 20)) + 
+  geom_point(data = df, aes(x = long, y = lat, col=Species), alpha =.9, show.legend=TRUE) +
+  theme_classic()+
+  scale_color_manual(values=c(brewer.pal(8, "Set2"),"black","grey","blue","yellow"))+
+  scale_size_continuous(range = c(1,5))+
+  guides(colour = guide_legend(override.aes = list(size = 4), order=1, label.theme = element_text(face = "italic")),
+         size = guide_legend(nrow = 1, order = 2))+
+  theme(legend.position = c(0.8, 0.5), legend.justification = c(0.01, 0.01))
+
+ggplot()+
+  geom_polygon(data = pac, aes(x=long, y = lat, group = group), fill="grey", col="black", cex=.1)+
+  coord_sf(xlim = c(150, 170), ylim = c(-15, 0)) + 
   geom_point(data = df, aes(x = long, y = lat, col=Species), alpha =.9, show.legend=TRUE) +
   theme_classic()+
   scale_color_manual(values=c(brewer.pal(8, "Set2"),"black","grey","blue","yellow"))+
@@ -67,5 +78,6 @@ ggplot()+
   guides(colour = guide_legend(override.aes = list(size = 4), order=1, label.theme = element_text(face = "italic")),
          size = guide_legend(nrow = 1, order = 2))+
   theme(legend.position = c(0, 0.5), legend.justification = c(0.01, 0.01))
+
 ```
 
